@@ -1,0 +1,1001 @@
+1. 
+scheme_name: Karnataka Schedule Tribe Marriage Assistance Scheme.
+benefit: Financial Assistance of Rs. 50,000/- for Marriage
+eligibility: Brides of Karnataka belonging to Schedule Tribe Category
+             The Annual Family Income of Bride Family should be below Rs. 2,00,000/- per year
+category: ST
+start_date: 2016
+application_details: Eligible Beneficiaries can apply for financial assistance under Karnataka Schedule Tribe Marriage Assistance Scheme by filling the Online Application Form.
+region: Karnataka/Bangalore
+source_url: 'https://twd.karnataka.gov.in/twincentive/SIM/SmRegistrationForm.aspx'
+
+2.
+scheme_name: Karnataka Swavalambi Sarathi Scheme
+
+benefit: Subsidy will be Provided on Purchase of Vehicle
+
+eligibility: Applicant should be a Permanent Resident of Karnataka. 
+             The Age of Applicant should be between 18 Years to 55 Years. 
+             The Annual Family Income of Applicant should not be more than Rs. 4,50,000/-
+             
+category: SC/ST
+
+start_date: none
+
+application_details: Eligible Beneficiaries belonging to Minority Community, Schedule Caste, Schedule Tribe and Other Backward Class will apply for Swavalambi Sarathi Scheme
+
+region: 
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/login'
+
+3. 
+scheme_name: Karnataka Krushi Aranya Protsaha Yojane
+
+benefit: Financial Assistance to Plant Tree Seedlings
+
+eligibility: Only those Farmers are eligible to plant tree seedlings who fulfils the below 
+mentioned eligibility condition of Krushi Aranya Protsaha Yojane :-
+* Farmers of Karnataka. 
+* Farmers who own a Land. 
+             
+
+category: Farmers
+
+start_date: 2011
+
+application_details: Through Krushi Aranya Protsaha Yojane Application Form. 
+
+region: Farmers of Karnataka.
+
+source_url: 'https://aranya.gov.in/aranyacms/(S(2ddy1b1lfyjmwqn1cguryqv3))/English/IndividualScheme.aspx?HkxuiBwcRAlH/nwkzKruPQ=='
+
+4.
+scheme_name: Karnataka Shakti Scheme
+
+benefit: Free of Cost Bus Ride across Karnataka. 
+* No Tickets Amount will be Charged from any Women 
+travelling in Government Run Buses.
+
+eligibility: Women of Karnataka
+             
+
+category: Women 
+
+start_date: 2023
+
+application_details: Eligible Women Beneficiary can apply for Smart Card for Free Bus Ride under Karanataka Shakti Scheme by filling the Online Application Form. 
+
+region: Karnataka
+
+source_url: 'https://sevasindhu.karnataka.gov.in/Sevasindhu/English'
+
+5.
+scheme_name: Karnataka Schedule Caste Marriage Assistance Scheme
+
+benefit: Financial Assistance of Rs. 50,000/- to the Brides of Karnataka
+
+eligibility: Couple should be a Permanent Residents of Karnataka. 
+* Bride and Bride Groom should be belong to Schedule Caste Category. 
+* Marriage should be held after 11-08-2015. 
+* The Annual Family Income of Bride Family should be below Rs. 2,00,000/- 
+per year. 
+* Application should be submitted within 1 year of marriage
+             
+
+category: Brides 
+
+start_date: 2015
+
+application_details: The only way to apply for financial assistance for marriage under Karnataka Schedule Caste Marriage Assistance Scheme is by filling Online Application 
+Form.
+
+region: SC
+
+source_url: 'https://swdservices.karnataka.gov.in/swincentive/SIM/SmRePrintAck.aspx'
+
+6.
+scheme_name: Karnataka Gruha Jyothi Scheme
+
+benefit: Free of Cost Electricity. 
+* No Electricity Amount will be Charged if Monthly Electricity 
+Consumption is less than 200 Units.
+
+eligibility: Households of Karnataka 
+             
+
+category: General
+
+start_date: 2023
+
+application_details: Through Karnataka Gruha Jyothi Scheme Offline Application 
+Form. 
+
+region: Karnataka
+
+source_url: 'https://sevasindhugs.karnataka.gov.in/'
+
+7.
+scheme_name: Karnataka SC Widow Re-Marriage Assistance Scheme
+
+benefit: Financial Assistance of Rs. 3,00,000/- will be provided
+
+eligibility: Re-Married Schedule Caste Widow of Karnataka 
+* Beneficiaries should be a Permanent Residents of Karnataka. 
+* Applicant Should be a Re-Married Widow and belongs to Schedule Caste 
+Category. 
+             
+
+category: SC
+
+start_date: 2015
+
+application_details: Application should be submitted within 1 year of marriage.
+
+region: Karnataka
+
+source_url: 'https://swdservices.karnataka.gov.in/swincentive/WRM/WRMRegistrationForm.aspx'
+
+8.
+
+scheme_name: Karnataka Thayi Bhagya Scheme
+
+benefit: Pregnant and Lactating Women of State
+
+eligibility: Women Beneficiary should be a Resident of Karnataka. 
+* Only Following Women are Eligible for Thayi Bhagya Scheme :- 
+* Pregnant Women or Lactating Mother. 
+* Women belongs to BPL Category. 
+* Women belongs to Schedule Caste/ Tribe Category.              
+
+category: SC/ST
+
+start_date: 2009
+
+application_details: Through Thayi Bhagya Scheme Application Form.
+
+region: Karnataka 
+
+source_url: 'https://dwcd.karnataka.gov.in/english'
+
+9.
+scheme_name: 
+Karnataka Bhagyalakshmi Scheme
+
+benefit: Financial Assistance of Rs. 1,00,097/- to First Girl Child. 
+* Financial Assistance of Rs. 1,00,052/- to Second Girl Child
+
+eligibility:Beneficiaries who fulfils the below mentioned eligibility conditions are eligible to avail the benefit of Bhagyalakshmi Scheme of Karnataka Government :- 
+* Beneficiary should be Residents of Karnataka. 
+* Beneficiary Family should be belong to BPL Category. 
+* Benefits will only be given for Birth of 2 Girl Child. 
+* Girl Child should be born after 01.08.2008.
+             
+
+category: women
+
+start_date: 2006
+
+application_details: 
+
+region: 
+
+source_url: 'https://govtschemes.in/sites/default/files/2023-04/Karnataka%20Bhagya%20Lakhsmi%20Scheme%20Application%20Form.pdf'
+
+10.
+scheme_name: e 
+Karnataka Thayi Bhagya Plus Scheme
+
+benefit: Pregnant Women of Karnataka State.
+
+eligibility: Beneficiary Women should be Resident of Karnataka. 
+* Following Women are eligible under Thayi Bhagya Plus Scheme :- 
+* Women who deliver her child in non empanelled private hospital. 
+* Women belongs to BPL Category. 
+* Women belongs to Schedule Caste/ Tribe Category
+             
+
+category: General
+
+start_date: 2010
+
+application_details: The only way to apply for Karnataka Thayi Bhagya Plus Scheme is through ASHA Worker or Junior Female Health Officer.
+
+region: Karnataka
+
+source_url: 'https://dwcd.karnataka.gov.in/english'
+
+11.
+scheme_name: Karnataka Self Employment Scheme
+
+benefit: 33% Subsidy on Project Cost.  
+* OR Maximum of Rs. 1,00,000/-.
+
+eligibility: Applicant should be Residents of Karnataka. 
+* The Age of Applicant should be between 18 Years to 55 Years. 
+* The Annual Family Income of Applicant should be :- 
+* Rs. 81,000/- in Rural Area. 
+* Rs. 1,03,000/- in Urban Area. 
+             
+
+category:  Muslims, Sikhs, Parsis, Jains, Christians, Buddhism.
+
+start_date: none
+
+application_details: Eligible Beneficiary can apply for Self Employment Scheme of Karnataka 
+Government by filling Online Application Form
+
+region: Karnataka
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/home'
+
+12.
+scheme_name: Karnataka Loan Scheme For Overseas Education. 
+
+benefit: Education Loan up to Rs. 20,00,000/-.
+* 3% Interest Rate for those whose Family Income is below Rs. 8 Lakh. 
+* 5% Interest Rate for those whose Family Income is more than Rs. 8 Lakh. 
+* Collateral is Required.
+
+eligibility: Beneficiary Student should be a Permanent Resident of Karnataka. 
+5% 
+* Student should have Received an Admission Offer Letter from a Foreign University. 
+* Student should have minimum 60% marks in his/ her previous year exam
+             
+
+category: General
+
+start_date: none
+
+application_details: Minority Community Students who wants to pursue Graduation or Post 
+Graduation from Foreign University can apply for education loan under 
+Karnataka Loan Scheme For Overseas Education by filling Online Application 
+Form.
+
+region: Karnataka 
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/home'
+
+13.
+scheme_name: 
+Karnataka Prasoothi Araike Scheme
+
+benefit: Benefits received by women beneficiary under Karnataka Prasoothi Araike 
+Scheme is mentioned below :- 
+* Financial Assistance of Rs. 3,000/- to SC and ST Lactating Mother. 
+* Financial Assistance of Rs. 2,000/- to BPL Category Lactating Mother
+
+eligibility: Women Beneficiary should be a Resident of Karnataka. 
+*Following Women are eligible under Prasoothi Araike Scheme :- 
+* Pregnant Women. 
+* Women belongs to BPL Category. 
+* Women belongs to Schedule Caste/ Tribe Category. 
+* Women who delivers her child in Government Hospital.
+             
+
+category: SC/ST
+
+start_date: 2007
+
+application_details: Pregnant Women has to contact her area's ASHA Worker or ANM.
+
+region: Karnataka
+
+source_url: 'https://dwcd.karnataka.gov.in/english'
+
+14.
+scheme_name: Karnataka Madilu Kit Scheme.
+
+benefit: Karnataka Government provided the following benefits to eligible women 
+under Madilu Kit Scheme :- 
+* Beneficiaries will get Madilu Kit consists 19 Daily Use Items. 
+* The cost of each kit is Rs. 1500/-. 
+* Rs. 1,000/- to those Women who deliver their child in private hospital 
+
+eligibility:  Women Beneficiary should be a Resident of Karnataka. 
+* Following Women are eligible to get Madilu Kit :- 
+* Pregnant Women. 
+* Women belongs to BPL Category. 
+* Women belongs to Schedule Caste/ Tribe Category. 
+* Women who delivers her child in Government Hospital 
+             
+
+category: women
+
+start_date: 2007
+
+application_details: No Need to Apply Separately
+
+region: Karnataka
+
+source_url: 'https://dwcd.karnataka.gov.in/english'
+
+15.
+scheme_name: Karnataka ST Intra Caste Couple Marriage Assistance Scheme
+
+benefit:Financial Assistance of Rs. 2,00,000/- for Marriage 
+
+eligibility: Bride and Bride Groom should be Permanent Residents of Karnataka. 
+* Bride and Bride Groom should be belong to Schedule Tribe Category and have 
+different sub caste.. 
+* Marriage should be held on or after 01-04-2018. 
+* The Annual Family Income should be below Rs. 2,00,000/- per year. 
+* Application should be submitted within 1 year of marriage
+             
+
+category: General
+
+start_date: 2016
+
+application_details: Beneficiary can apply for financial assistance under Karnataka ST Intra Caste Couple 
+Marriage Assistance Scheme by filling Online Application Form. 
+
+region: Karnataka
+
+source_url: 'https://twd.karnataka.gov.in/twincentive/Intracaste/IntraCasteRegistrationForm.aspx'
+
+16.
+scheme_name: Karnataka ST Widow Re-Marriage Assistance Scheme.
+
+benefit: Financial Assistance of Rs. 3,00,000/- to Widow for her Remarriage.
+
+eligibility: Beneficiary should be Permanent Resident of Karnataka. 
+* Beneficiary should be a Re-Married Widow and belongs to Schedule Tribe Category. 
+* Widow Should be Re-Married to get Financial Assistance. 
+* There is No Annual Family Income Limit. 
+* Application should be submitted within 1 year of Marriage
+             
+
+category: General
+
+start_date: 2016
+
+application_details: Re-Married Widow of Karnataka State belonging to Schedule Tribe Category can apply for financial assistance under Karnataka ST Widow Re-Marriage Assistance 
+Scheme by filling Online Application Form.
+
+region: Karnataka
+
+source_url: 'https://twd.karnataka.gov.in/twincentive/WRM/WRMRegistrationForm.aspx'
+
+17.
+scheme_name: Karnataka SC Inter Caste Couple Marriage Assistance Scheme
+
+benefit:  The Following Financial Assistance for marriage will be provided 
+to couples if either of the couple belongs to SC Category :- 
+* Rs. 2,50,000/- will be given to Men. 
+* Rs. 3,00,000/- will be given to Women
+
+eligibility: Groom and Bride should be a Permanent Residents of Karnataka. 
+* Any One i.e. Bride or Bride Groom should be belong to Schedule Caste Category. 
+* Marriage should be held after 01-04-2018. 
+* The Annual Family Income of Couple should be below Rs. 5,00,000/- per year. 
+* Application should be submitted within 1 year of marriage 
+             
+
+category: SC 
+
+start_date: 2015
+
+application_details: Applicant can apply for financial assistance under Karnataka SC Inter Caste Couple Marriage Assistance Scheme by filling Online Application Form
+
+region: Karnataka
+
+source_url: 'https://swdservices.karnataka.gov.in/swincentive/ICM/ICMRegistrationForm.aspx'
+
+18.
+scheme_name: Karnataka SC Intra Caste Marriage Assistance Scheme
+
+benefit: Financial Assistance of Rs. 2,00,000/- will be provided.
+
+eligibility:  Bride and Groom should be a Permanent Residents of Karnataka. 
+* Applicants Should be belong to Schedule Caste Category but have different Sub 
+Caste. 
+* The Annual Family Income should be below Rs. 2,00,000/-. 
+* Application should be submitted within 1 year of marriage. 
+* Marriage Should be held on or after 01-04-2018 
+             
+
+category: SC
+
+start_date: 2015
+
+application_details: Eligible Married Couple belongs to Schedule Caste Category but having different Sub Caste can apply for financial assistance under Karnataka SC Intra Caste Marriage Assistance Scheme by filling Online Application Form.
+
+region: Karnataka
+
+source_url: 'https://swdservices.karnataka.gov.in/swincentive/Intracaste/IntraCasteRegistrationForm.aspx'
+
+19.
+scheme_name: Karnataka ST Inter Caste Couple Marriage Assistance Scheme
+
+benefit:  Rs. 2,50,000/- will be given to Men. 
+Benefits 
+* Rs. 3,00,000/- will be given to Women
+
+eligibility:  Applicant should be a Permanent Residents of Karnataka. 
+ Any One from Bride or Bride Groom should be belong to Schedule Tribe Category. 
+ Marriage of a Couple should be held on or after 07-02-2019. 
+ The Annual Family Income should be below Rs. 5,00,000/- per year. 
+ Application for Assistance should be submitted within 1.5 year of marriage
+             
+
+category: ST
+
+start_date: 2016
+
+application_details: Married Couple can apply for financial assistance under Karnataka ST Inter Caste 
+Couple Marriage Assistance Scheme by filling Online Application Form. 
+
+region: Karnataka
+
+source_url: 'https://sw.kar.nic.in/twincentive/ICM/ICMRegistrationForm.aspx'
+
+20.
+scheme_name: Karnataka Community Based Training Scheme
+
+benefit: Training for Employment will be Provided.
+
+eligibility:  Unemployed Youth should be a Permanent Resident of Karnataka. 
+ Age of Applicant should be between 18 Years to 35 Years. 
+ Applicant should be Minimum Class 10th Passed. 
+ The Annual Family Income of Unemployed Youth should be :- 
+* Rs. 1,03,000/- in Urban Area. 
+* Rs. 96,000/- in Rural Area 
+             
+category: General
+
+start_date: none
+
+application_details: Eligible Minority Community Unemployed Youth can apply for Community Based Training Scheme through Online Application Form.
+
+region: Karnataka
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/login'
+
+21.
+scheme_name: Karnataka Shrama Shakthi Loan Scheme
+
+benefit:   Rs. 50,000/- Loan will be Provided. 
+ Nominal Interest Rate of 4%. 
+ If Half Loan will be Paid of Rs. 25,000/- then there is no need to 
+pay other Half. 
+ Skill Training will also provided
+ 
+eligibility:  Applicant should be a Resident of Karnataka. 
+ The Age of Applicant should be between 18 Years to 55 Years. 
+ The Annual Family Income of Applicant should not be more than Rs. 3,50,000/-. 
+             
+category: General
+
+start_date: none 
+
+application_details: Eligible Beneficiary can apply for Shrama Shakthi Scheme through Online Application 
+Form.
+
+region: Karnataka
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/home'
+
+22.
+scheme_name: Karnataka Shramashakthi Special Women Scheme
+
+benefit:  Loan of Rs. 50,000/-. 
+ Only 25,000/- will have to repay to Bank. 
+ Remaining 25,000/- will be paid by Government. 
+ No Collateral Required
+
+eligibility:  Beneficiary Women should be Permanent Resident of Karnataka. 
+ The Age of Women Beneficiary should be between 18 Years to 55 Years. 
+ Women Beneficiary should be :- 
+o Divorcee. 
+o Widow. 
+o Unmarried
+             
+category: SC/ST
+
+start_date: 2023
+
+application_details: Women Beneficiary belonging to Minority Community can apply for loan and subsidy 
+under Shramashakthi Special Women Scheme by filling Online Application Form. 
+
+region: Karnataka
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/home'
+
+23.
+scheme_name:Karnataka Prabuddha Overseas Scholarship Scheme.
+
+benefit:  Full Tuition Fees will be paid by Government. 
+ Maintenance Allowance of Rs. 8 Lakh per Year or 75% of 
+Actual. 
+ Medical Insurance. 
+ Rs. 1 Lakh per Year for Book and Other Miscellaneous 
+Allowance. 
+ VISA Fees. 
+ AIR PASSAGE (AIR Tickets) 
+
+eligibility:  Applicant should be a Resident of Karnataka. 
+ Applicant should belong to Schedule Caste or Schedule Tribe Category. 
+ Applicant Age Limit should be :- 
+o 21 Years for Undergraduate Course. 
+o 35 Years for Post Graduate and Doctoral Course.
+             
+
+category: SC/ST
+
+start_date: none
+
+application_details: Eligible Students can apply for Prabuddha Overseas Scholarship Scheme of Karnataka through Online Application Form which is available at Karnataka Pre Examination 
+Training Centre Website. 
+
+region: Karnataka
+
+source_url: 'https://swdservices.karnataka.gov.in/foreignstudies'
+
+24.
+scheme_name:  
+Karnataka Ganga Kalyana Scheme
+
+benefit:  Free of Cost Boring on Agricultural Land. 
+ Free of Cost Pump Sets. 
+ Free of Cost Electrification of Bore Well
+
+eligibility:  Applicant should be Resident of Karnataka. 
+ Applicant should be a Small or Tenant farmer. 
+ Minimum Land Holding of Farmer should be 1 Acre. 
+ Age of Farmer should be between 18 Years to 55 Years. 
+             
+
+category: minority
+
+start_date: none
+
+application_details: Eligible Farmer Beneficiary can apply for free of cost boring in agricultural field under 
+Ganga Kalyana Scheme through Online Application Form. 
+
+region: Karnataka
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/login'
+
+25.
+scheme_name: Karnataka Anna Bhagya Scheme.
+
+benefit: Rs. 34/- per Kg will be Provided in Place of 5 Kg Rice per Head.
+
+eligibility: Applicant should be a Permanent Resident of Karnataka. 
+ Applicant should be belong to any of the below mentioned category :- 
+o Below Poverty Line (BPL). 
+o Antyodaya Anna Card.
+             
+
+category: BPL
+
+start_date: 2023
+
+application_details: No Need to Apply Anywhere. 
+
+region: Karnataka
+
+source_url:  No Need to Apply Anywhere
+
+26.
+scheme_name:  
+Karnataka Gruha Lakshmi Scheme
+
+benefit: Financial Assistance of Rs. 2,000/- per Month.
+
+eligibility: Eligibility 
+ Applicant Should be a Permanent Resident of Karnataka. 
+ Applicant Should be a Women and Head of Household. 
+ Applicant Should have any of the below mentioned cards :- 
+o Antyodaya Card. 
+o BPL Card. 
+o APL Card. 
+             
+
+category: BPL
+
+start_date: 2023
+
+application_details:  Registration of Women Beneficiary under Gruha Lakshmi Scheme will be done by filling Offline Application Form of Gruha Lakshmi Scheme at any of the below 
+mentioned centers :- 
+o Karnataka One. 
+o Bengaluru One. 
+
+region: Karnataka
+
+source_url: 'https://sevasindhugs1.karnataka.gov.in/gl-stat-sns/'
+
+27.
+scheme_name: Karnataka Arivu Education Loan Scheme
+
+benefit:  Education Loan of Rs. 50,000/- to Rs. 3,00,000/- per Year. 
+ No Collateral Required. 
+ Very Nominal Interest Rate of 2%. 
+ Repayment Time Period Starts after Completion of Course. 
+ Repayment Time Period is 48 Months
+
+eligibility:  Student should be Permanent Resident of Karnataka. 
+ The Annual Family Income of Student should not be more than Rs. 8,00,000/- per 
+Year. 
+ Student who are willing to pursue Higher/ Professional/ Technical Education are 
+Eligible to Apply 
+             
+
+category: General
+
+start_date: none
+
+application_details: Students from the Minority Community can apply for loan for their professional education under Karnataka Arivu Education Loan Scheme by filling Online Application 
+Form.
+
+region: Karnataka
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/home'
+
+28.
+scheme_name:  
+Karnataka Vrutti Protsaha Loan Scheme.
+
+benefit:  Loan of Rs. 1,00,000/-. 
+ No Collateral Required. 
+ Only 50,000/- will have to Paid to Bank. 
+ Remaining 50,000/- will be paid by Government
+
+eligibility:  Beneficiary should be Permanent Resident of Karnataka. 
+ The Annual Family Income of Applicant should be :- 
+o Rs. 1,03,000/- in Urban Area. 
+o Rs. 81,000/- in Rural Area. 
+ The Age of Beneficiary should be between 18 Years to 55 Years. 
+ Applicant should not be a Beneficiary of any other KMDCL Scheme
+             
+
+category: o Muslims. 
+o Buddhism. 
+o Sikhs. 
+o Christians. 
+o Jains. 
+o Parsis
+
+start_date: none
+
+application_details: Minority Community Applicant can apply for Vrutti Protsaha Loan Scheme of 
+Karnataka Government by filling Online Application Form.
+
+region: Karnataka
+
+source_url: 'https://kmdconline.karnataka.gov.in/Portal/home'
+
+29.
+scheme_name: Karnataka Yuva Nidhi Scheme.
+
+benefit:  Unemployment Allowance of Rs. 3,000/- per Month to 
+Graduated Youth. 
+ Unemployment Allowance of Rs. 1,500/- per Month to 
+Diploma Holder Youth.
+
+eligibility:  Karnataka Government sets the following eligibility conditions in order to 
+provide the monthly unemployment allowance under Yuva Nidhi Scheme :- 
+o Applicant should be a Permanent Resident of Karnataka. 
+o Applicant should be a Graduate or Diploma Holder. 
+o Applicant should passed his/ her Graduation or Diploma in the year 
+2022-2023. 
+o Applicant should be Unemployed for minimum 180 Days after the date 
+of passing Graduation or Diploma
+             
+
+category: General
+
+start_date: 2023
+
+application_details: Eligible Educated but Unemployed Youth of Karnataka can avail the benefit of unemployment allowance by filling the Online Application Form of Yuva Nidhi 
+Scheme. 
+
+region: Karnataka
+
+source_url:  'https://sevasindhugs.karnataka.gov.in/'
+
+
+30.
+scheme_name:  Extension of Interest Subsidy loan scheme at 4% to SC/ST 
+entrepreneurs from Nationalised Banks/The    Karnataka State 
+Cooperative Central Banks (DCC Banks) with regard to the 
+loans sanctioned by banks 
+
+benefit: none
+
+eligibility: none 
+             
+
+category: SC/ST
+
+start_date: none
+
+application_details: none
+
+region: Karnataka
+
+source_url: none
+
+31.
+
+scheme_name: Prime Minister’s Employment Generation Program (PMEGP) 
+
+benefit: employment generation
+
+eligibility: Individuals above 18 years of age 
+             
+category: General, special 
+
+start_date: none
+
+application_details:  
+District Level Task Force committee 
+CGTMSE for micro and small industries is available for PMEGP units 
+to facilitate entrepreneurs for collateral security free loans up to Rs 10 
+lakh. 
+
+region: Karnataka
+
+source_url: none
+
+32.
+scheme_name: Chief Minister’s Employment Generation Program (CMEGP) 
+
+benefit: none
+
+eligibility: MinAge MaxAge 
+General 21 35 
+Special 21 45 
+             
+
+category: General, special
+
+start_date: none
+
+application_details: District Industries Centre (DIC) & KVIB  
+
+region: Karnataka
+
+source_url: none
+
+
+33.
+scheme_name: 4% Interest Subsidy Scheme for SC/ST 
+
+benefit: nonw
+
+eligibility: SC & ST (Ownership – 100% by SC/ST ) 
+SC/ST Caste Certificate to be produced  
+the unit should provide employment to 50% SC/ST 
+             
+
+category: SC/ST
+
+start_date: none
+
+application_details: 
+
+region: Karnataka
+
+source_url: none
+
+34.
+scheme_name: 
+Dr. B R Ambedkar Development Corporation –ISB, Samrudhi and Airavatha Schemes 
+
+benefit: none
+
+eligibility: Upto 60 Years 
+             
+
+category: SC
+
+start_date: none
+
+application_details: none
+
+region: Karnataka
+
+source_url: none
+
+35.
+scheme_name: Karnataka Maharshi Valmiki ST Development Corporation –ISB, Samrudhi and 
+Airavatha Schemes 
+
+benefit: none
+
+eligibility: Upto 60 years
+             
+
+category: ST
+
+start_date: none
+
+application_details: none 
+
+region: Karnataka
+
+source_url: none
+
+36.
+scheme_name: Udyogini Scheme of Women & Child Development Department 
+
+benefit: none
+
+eligibility: Women
+             
+category: General
+
+start_date: none
+
+application_details: none
+
+region: Karnataka
+
+source_url: none
+
+37.
+scheme_name: Anila Yojane
+
+benefit: 100% women programme
+
+eligibility: Women
+             
+category: General
+
+start_date: 2018
+
+application_details: online
+
+region: Karnataka
+
+source_url: ' http://rdpr.kar.nic.in/English/AnilaYojane.asp'
+
+38.
+scheme_name:  Mahatma Gandhi National Rural Employment Guarantee Act Scheme
+
+benefit: Rural agriculture labour
+
+eligibility: Rural
+             
+category: General
+
+start_date: 2018
+
+application_details: 
+
+region: Karnataka, India
+
+source_url:  'http://nrega.nic.in/netnrega/home.aspx'
+
+
+39.
+scheme_name:  Sanjeevini – NRLM
+
+benefit: Rural Habitat
+
+eligibility: Rural    
+
+category: General
+
+start_date: 2018
+
+application_details: online
+
+region: Karnataka
+
+source_url: ' http://rdpr.kar.nic.in/English/nrlm.asp'
+
+40.
+scheme_name:  National Rural Drinking Water Programme
+
+benefit: 55 Litres of drinking water
+
+eligibility:  Rural Habitat
+             
+category: General
+
+start_date: 2018
+
+application_details: online
+
+region: Karnataka
+
+source_url: ' http://rdpr.kar.nic.in/English/rural_water.asp'
+
+
+41.
+scheme_name: National handloom Development Programme
+ (NHDP)
+
+benefit: provide facilities such as training, luggage and equipment delivery, general facility center and workshop
+
+eligibility: Citizens
+             
+category: General
+
+start_date: 2019
+
+application_details: online
+
+region: Karnataka
+
+source_url: ' pl. visit karnatakadht.org'
+
+
+42.
+scheme_name:  Atal Pension Yojana (APY)
+
+benefit:  guaranteed minimum monthly pension 
+
+eligibility: citizens
+             
+category: General
+
+start_date: 2015
+
+application_details: online
+
+region: Karnataka, India
+
+source_url: ' https://financialservices.gov.in/'
+
+
+43.
+scheme_name: Stand Up India Scheme
+
+benefit: 
+
+eligibility: SC/ST and/or women entrepreneurs; above 18 years of age                                                                       
+* Loans under the scheme is available for only greenfield project. Greenfield  signifies, in this context, the first time venture of the beneficiary in the manufacturing or services or trading sector                       
+                                                                                                                                                                  * In case of non-individual enterprises,51% of the shareholding and controlling stakes should be held by either SC/ST and/or Women Entrepreneur                                                                                                 
+                                                   
+* Borrower should not be in default to any bank or financial institution 
+             
+
+category: SC/ST
+
+start_date: 2016
+
+application_details: Online 
+
+region: Karnataka,India
+
+source_url: Directly at a Bank Branch
+
+
+44.
+scheme_name:  Pradhan Mantri Jan Dhan Yojana (PMJDY)
+
+benefit:  The scheme envisages universal access to banking facilities with at least one basic banking account for every household, financial literacy, access to credit, insurance and pension.
+
+eligibility: Citizens
+             
+
+category: General
+
+start_date: 2014
+
+application_details: online
+
+region: Karnataka, India
+
+source_url: ' https://pmjdy.gov.in/'
+
+
+45.
+scheme_name: Chief Minister Grama Vikasa
+
+benefit: Approval of villages selected under the Chief Minister’s Gram Vikas Yojana  
+
+eligibility: Rural
+             
+category: none
+
+start_date: 2017 
+
+application_details: online
+
+region: Karnataka
+
+source_url: ' http://rdpr.kar.nic.in/English/CMGramVikasa.asp'
